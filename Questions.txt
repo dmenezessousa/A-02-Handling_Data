@@ -1,7 +1,15 @@
 Explain what the ".map" properties of arrays does.
 
+A: .map, acts like it is a "for" or "forEach" loop, looping through an array and returning every single element in that array. 
+
 Explain what the ".reduce" properties of arrays does.
+
+A: .reduce, acts almost as the same as .map however you can choose which elements you want it to return back to you.
 
 How is ".map" different from reduce?
 
+A: You can manipulate the Data to get the information you need or modify it. However you can't change the amount of elements you get from it.
+
 What are "switch" statements?
+
+A: Switch statements acts like a "if/else" statement, however it evaluates an expression checking that expression value to a case and executes whatever statements are associated with that case
